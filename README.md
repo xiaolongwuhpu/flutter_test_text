@@ -1,16 +1,55 @@
-# flutter_test_text
 
-A new Flutter project.
+好的,已了解产品详情,根据您提供的信息,为“行业好奇心简报”编写的用户隐私协议如下:
 
-## Getting Started
+木子互动尊重并保护所有使用“行业好奇心简报”(以下简称“本产品”)的用户的个人隐私权。为了让您更好地了解我们在信息收集、使用方面的政策与实践,我们制定了本隐私政策。 
 
-This project is a starting point for a Flutter application.
+一、我们收集和使用的信息
 
-A few resources to get you started if this is your first Flutter project:
+1. 为实现产品基本功能,我们需要收集您的设备信息、操作记录、位置信息等个人信息。
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. 为不断优化产品,我们还会收集您的使用情况、操作习惯等信息。
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. 在获得您的明确同意后,我们还可能会收集您的联系方式或其他个人信息。
+
+二、我们如何使用收集的信息
+
+1. 我们通过收集的信息为您提供产品服务。
+
+2. 我们可能会在改进产品与服务时使用这些信息。
+
+3. 根据法律法规要求,我们可能会披露您必要的个人信息。
+
+三、我们如何共享、转让和公开披露您的个人信息
+
+1. 未获得您的明确同意,我们不会向任何第三方共享您的个人信息。 
+
+2. 法律法规规定的情形除外。
+
+3. 在涉及合并、收购时,我们会要求新持有您个人信息的公司继续受此隐私政策的约束。
+
+四、我们如何存储您的个人信息以及怎样保护其安全性
+
+1. 我们会采用符合业界标准的安全防护措施保护您的个人信息,防止信息遭到未经授权访问。
+
+2. 我们会建立专业的安全部门,对个人信息采取加密、匿名化等处理。
+
+五、您的权利
+
+1. 查阅、更正、删除我们持有的您的个人信息。
+
+2. 改变您授权我们使用个人信息的范围。
+
+3. 注销账户及相应的个人信息。
+
+六、联系我们
+
+如果您对本隐私政策有任何问题,可通过以下方式联系我们:
+
+邮箱:wallpaper_2020@163.com
+
+我们会及时回复您的问题,并在第一个工作日内给您答复。
+
+本隐私政策将随公司业务调整而更新。我们会在本产品中以适当方式提示变更内容。
+
+木子互动
+2022年10月10日
